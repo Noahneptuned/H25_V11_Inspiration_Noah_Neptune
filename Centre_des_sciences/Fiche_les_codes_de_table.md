@@ -7,6 +7,8 @@
 ###
 
 
-- Type d'installation: 
+- Type d'installation: Le Banquet
 
 <img src="Image (7).jpg/">
+
+
