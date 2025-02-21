@@ -9,4 +9,4 @@
 
 - Type d'installation: 
 
-<img src="Centre_des_sciences/Image (7).jpg/">
+<img src="Image (7).jpg/">
