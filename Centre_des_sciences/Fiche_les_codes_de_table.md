@@ -8,3 +8,4 @@
 
 
 - Type d'installation: 
+! [photo] (image (7).jpg)
