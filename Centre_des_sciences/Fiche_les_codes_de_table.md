@@ -8,4 +8,5 @@
 
 
 - Type d'installation: 
-! [photo] (image (7).jpg)
+
+! [photo] (image banquet.jpg)
