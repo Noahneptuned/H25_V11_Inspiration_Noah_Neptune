@@ -9,4 +9,4 @@
 
 - Type d'installation: 
 
-! [photo] (image banquet.jpg)
+!
